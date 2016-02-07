@@ -1,4 +1,4 @@
-package com.shaohuan.sweather;
+package com.sweather.app;
 
 import android.app.Activity;
 import android.os.Bundle;
